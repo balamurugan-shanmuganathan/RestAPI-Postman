@@ -27,6 +27,7 @@ To run use this command in you virtualenv
   python app.py
   
 ### Setup Postman
+To download Postman [click](https://www.postman.com/downloads/) this link
 **Method**
 ![PostMethod](Image/PostMethod.JPG)
 
